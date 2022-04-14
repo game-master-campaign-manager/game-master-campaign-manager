@@ -1455,10 +1455,10 @@
   resolved "https://registry.yarnpkg.com/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz#b520529ec21d8e5945a1851dfd1c32e94e39ff45"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
-"@iamgarrett/gatsby-theme-gmcm@^0.1.1":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@iamgarrett/gatsby-theme-gmcm/-/gatsby-theme-gmcm-0.1.1.tgz#2d4acb2a0ab305423668b72356d7dee1683aaca7"
-  integrity sha512-x8PCS7sCwoejLO6iNMWrMPSTlRkFmBlgK9JVsPQCNtRdLwd+I6rrq40PvYRwYwSbw83anZ4if5CBobvPt10f/Q==
+"@iamgarrett/gatsby-theme-gmcm@^0.1.1-a":
+  version "0.1.1-a"
+  resolved "https://registry.yarnpkg.com/@iamgarrett/gatsby-theme-gmcm/-/gatsby-theme-gmcm-0.1.1-a.tgz#5e5c3b3a643f2b1889ae83a8d8b68ff69bd55e43"
+  integrity sha512-gGQ16KHO82XWug2EYaEQvGVlW4axK0D0fOegCVshKJHGx8dIbnuADt8onggIm4t3852U5OPSe9/aLM+9UzzIbw==
   dependencies:
     "@dice-roller/rpg-dice-roller" "^5.1.0"
     "@emotion/react" "^11.9.0"
