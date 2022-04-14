@@ -1,0 +1,8 @@
+/**
+ * @dice-roller/rpg-dice-roller - An advanced JS based dice roller that can roll various types of dice and modifiers, along with mathematical equations.
+ * 
+ * @version 5.1.0
+ * @license MIT
+ * @author GreenImp Media <info@greenimp.co.uk> (http://greenimp.co.uk)
+ * @link https://dice-roller.github.io/documentation
+ */
